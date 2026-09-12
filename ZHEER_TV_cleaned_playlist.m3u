@@ -1,0 +1,273 @@
+#EXTM3U
+#EXTINF:-1,Gali Kurdistan TV
+https://live.host247.net/gk/gksat/playlist.m3u8
+#EXTINF:-2,WelatTV
+https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8
+#EXTINF:-3,Kirkuk Satellite TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-4,Payam tv
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-5,Haber 61 HD
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-6,HALK TV
+https://halktv.daioncdn.net/halktv/halktv_360p.m3u8?sid=836oghq51cw9&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-7,WAAR
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+#EXTINF:-8,Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-9,Med Muzik TV
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-10,Kurdistan tv
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-11,JIN TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-12,Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-13,Ava Media TV
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:14 group-title="Kurdish Live TV" m3u-type="stream",Bask HD
+http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+#EXTINF:15 group-title="Kurdish Live TV" m3u-type="stream",Halabja TV
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:16 group-title="Kurdish Live TV" m3u-type="stream",Channel 8 TV
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-17 tvg-name="Shna QURAN" tvg-logo="https://i.postimg.cc/XvFrTSp1/Shna-Quran-200.png" group-title="Religious",Shna QURAN
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-18  tvg-name="QURAN Sharjah" tvg-logo="https://i.postimg.cc/6QscV3tq/Sharjah_Tv_Quran_200.jpg" group-title="Religious",QURAN Sharjah
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//playlist.m3u8
+#EXTINF:-19  tvg-name="Pro Quran" tvg-logo="https://i.postimg.cc/Z5X97KKy/Al-Quran-Pro-200.png" group-title="Religious",Pro Quran
+http://tv.ezanvaktipro.com:80/hls/quran.m3u8
+#EXTINF:-20  tvg-name="SPI QURAN" tvg-logo="https://i.postimg.cc/kgRGb3FM/SPI-Quran-200.jpg" group-title="Religious",SPI QURAN
+https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
+#EXTINF:-21  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
+http://103.126.50.103:2082/live/05343240670yg/9139198/39652.m3u8
+#EXTINF:-22 tvg-id="SkyNewsArabiaVertical.ae@HD",Sky News Arabia Vertical (1080p)
+https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
+#EXTINF:-23 tvg-id="SpacetoonArabic.ae@SD",Spacetoon Arabic (576p)
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-24 tvg-id="NourTV.ae@SD",Nour TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-25 tvg-id="AfarinTV" tvg-logo="https://imgur.com/DpuKdF4.png" group-title="Kids",Afarin Baxcha TV
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/chunklist_w286602395.m3u8
+#EXTINF:-26 tvg-id="AfarinTV" tvg-logo="https://imgur.com/hTEOvnA.png" group-title="Kids",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-27 tvg-id="Amozhgary.iq" tvg-name="AMOZHGARY" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="Religious",AMOZHGARY
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-28 tvg-id="MMNDucumetary.iq" tvg-logo="https://imgur.com/MGsxLkW.png" group-title="Documentary",MMN Documentary
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:-29 tvg-id="" tvg-name="FARMUDA TV" tvg-logo="https://imgur.com/l6jouf3.png" group-title="Religious",FARMUDA TV
+http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
+#EXTINF:-30 tvg-id="Derin.iq" tvg-logo="https://imgur.com/1xCvdoi.png" group-title="Entertainment",Derin
+http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
+#EXTINF:-31 tvg-id="" tvg-name="Bangawaztv" tvg-logo="https://imgur.com/CYJrDuB.png" group-title="Religious",Bangawaztv
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+#EXTINF:-32 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="News",Al Jazeera Documentary (1080p)
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-33 group-title="Kurdish",ZAROK SORANI
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-34 group-title="Kurdish",MMN NEWS
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:-35 group-title="Kurdish",SADA TV
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
+#EXTINF:-36 group-title="Kurdish",MMN QURAN
+http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist.m3u8
+#EXTINF:-37 group-title="Kurdish",ESRA TV 2
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/playlist.m3u8
+#EXTINF:-38 group-title="Kurdish",ESRA TV 1
+https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/playlist.m3u8
+#EXTINF:-40 group-title="Kurdish",SAN QURAN
+http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
+#EXTINF:-42 group-title="Kurdish",AVA HD
+https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:-43 group-title="Kurdish",EURO KURD
+http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
+#EXTINF:-44 group-title="Kurdish",MIHRAB TV
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+#EXTINF:-45 group-title="Kurdish",WAAR
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-46 group-title="Kurdish",QELLAT
+http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8
+#EXTINF:-47 group-title="Kurdish",SHNA TV
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-48 group-title="Kurdish",SHAR TV
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-49 group-title="Kurdish",ALA HD
+http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+#EXTINF:-50 tvg-id="Mixkurdy.iq@HD" group-title="Kurdish Entertainment",Mixkurdy (1080p)
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-51 tvg-id="ZagrosTV.iq@SD" group-title="Kurdish General",Zagros TV (720p)
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-52 tvg-id="AlSharqiya.iq@SD" group-title="Iraqi",Al-Sharqiya (1080p)
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-53 tvg-id="MBCIraq.iq@SD" group-title="Iraqi",MBC Iraq (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-54 tvg-id="INews.iq@SD" group-title="Kurdish News",iNEWS TV (1080p)
+https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:-54 tvg-id="BahrainSports1.bh@SD" group-title="Sports",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-55 tvg-id="BahrainSports2.bh@SD" group-title="Sports",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-56 tvg-id="TRTCocuk.tr@SD" group-title="Kids",TRT Çocuk (1080p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-57 tvg-id="BabySharkTV.us@SD" group-title="Kids",Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-58 tvg-id="ABCKids.au@SD" group-title="Kids",ABC Kids Australia
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-59 tvg-id="BratTV.us@SD" group-title="Kids",Brat TV (1080p)
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-60 tvg-id="BETCinema.us@SD" group-title="Movies",BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:-61 tvg-id="AlSharqiyaNews.iq@SD" group-title="Iraqi News",Al-Sharqiya News (1080p)
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-61,KU | RUDAW TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-62,KU | AVA MEDIA TV
+https://ava2.store/upload/ava.m3u8
+#EXTINF:-63,KU | KURDISTAN 24 TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324572.ts
+#EXTINF:-64,KU | KURDSAT NEWS TV
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-65,KU | NUÇÊ TV
+https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+#EXTINF:-66,KU | CHANNEL 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-69,KU | EURO KURD TV
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-70,KU | PESHANG TV HD
+https://stream.forcaroo.com/stream/hls/desktop.m3u8
+#EXTINF:-71,KU | RED TV HD
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+#EXTINF:-72,KU | KURD7 TV HD
+http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
+#EXTINF:-73,KU | GEWHER TV HD
+https://iptv-link.short.gy/Gewher.m3u8
+#EXTINF:-77,KU | 4KURD TV HD
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-78,KU | AlTERNATIVE SHARAY TV
+https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV-avc1_1500000=10001.m3u8
+#EXTINF:-89,KU | CIRA TV HD
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-92,KU | SHNA TV HD
+https://lbgo.bozztv.com/ssh101/ssh101/shna12345/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-93,KU | REHBER TV HD
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+#EXTINF:-94,KU | BARIN MOVIES TV
+https://cdn.karwan.tv/barin-movies/index.m3u8
+#EXTINF:-95,KU | BARIN FAMILY TV
+http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8
+#EXTINF:-96,KU | NEW FAMILY TV
+https://cdn.karwan.tv/bnar-family/index.m3u8
+#EXTINF:-98,KU | NEW MOVIES TV
+https://cdn.karwan.tv/bnar-movies/index.m3u8
+#EXTINF:-99,KU | NEW ACTION TV
+https://cdn.karwan.tv/bnar-action/index.m3u8
+#EXTINF:-100,KU | MMN ART TV
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+#EXTINF:-101,KU | MMN ACTION TV
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+#EXTINF:-102,KU | MMN KIDS TV
+http://185.95.184.33:25461/live/120541/20364/209.m3u8
+#EXTINF:-103,KU | BARIN QURAN TV
+http://185.95.184.33:25461/live/120541/20364/4326.m3u8
+#EXTINF:-105,KU | KIDCO TV HD
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+#EXTINF:-107,KU | ZOOMOO TV HD
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-108,KU | TOM AND JERRY TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-109,KU | RYAN AND FREINDS TV
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-110,KU | BABY SHARK TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-111,KU | MARAYA KIDS TV
+https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
+#EXTINF:-112,KU | FARMOODA TV HD
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+#EXTINF:-113,KU | IMK QURAN TV
+http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+#EXTINF:-114,KU | ESRA TV HD 2
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
+#EXTINF:-115,KU | MMN QURAN TV
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+#EXTINF:-116,KU | ASHTI QURAN TV
+http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
+#EXTINF:-117,KU | MIHRAB FM HD
+http://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8
+#EXTINF:-119,KU | SOZ TV HD
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
+#EXTINF:-121,KU | SAUDI QURAN TV
+https://win.holol.com/live/quran/playlist.m3u8
+#EXTINF:-122,KU | KSA QURAN RADIO
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-123,KU | GEWHER SPORT TV
+https://iptv-link.short.gy/Gewher_Sport.m3u8
+#EXTINF:-124,KU | MMN SPORT TV
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-125,KU | ZAYTOUN SPORT TV
+https://barham.short.gy/zvgsport.m3u8
+#EXTINF:-126,AR | QATAR TV HD
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-127,AR | QATAR TV 2
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+#EXTINF:-128,AR | WATAN TV HD
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+#EXTINF:-131,AR | ALGHAD TV HD
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-134,AR | AL JAZEERA
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+#EXTINF:-135,AR | AL ARABIA NEWS
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-136,AR | MBC 1 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-137,AR | MBC 3 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-138,AR | MBC 4 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-139,AR | MBC 5 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-140,AR | MBC DRAMA TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-141,AR | MBC BOLLYWOOD TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-142,AR | MBC ACTION
+http://185.95.184.33:25461/live/120541/20364/221.m3u8
+#EXTINF:-144,KU | TRT KURDI TV
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-145,KU | NETFLIX ACTION HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487989.m3u8
+#EXTINF:-146,KU | NETFLIX ACTION 2 HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487986.m3u8
+#EXTINF:-147,KU | NETFLIX ACTION 3 HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487985.m3u8
+#EXTINF:-148,KU | NETFLIX ANIME HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/488002.m3u8
+#EXTINF:-149,KU | NETFLIX COMEDY HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487974.m3u8
+#EXTINF:-150,KU | NETFLIX DRAMA 1 HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487994.m3u8
+#EXTINF:-151,KU | NETFLIX DRAMA 2 HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487993.m3u8
+#EXTINF:-152,KU | NETFLIX KIDS HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487967.m3u8
+#EXTINF:-153,KU | IRAQIA NEWS
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-154 tvg-name="Speda TV HD" tvg-id="SpedaTV.iq" group-title="Kurdish",Speda TV HD
+https://speda1.site/upload/images/spedahd.m3u8
+#EXTINF:-156 tvg-name="NRT TV" tvg-id="NRT.iq" group-title="Kurdish",NRT TV
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
+#EXTINF:-157 tvg-name="Kurdsat HD" tvg-id="Kurdsat.iq" group-title="Kurdish",Kurdsat HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-mp4a_128000_eng=20000.m3u8
+#EXTINF:-158 tvg-name="Bask HD" group-title="Kurdish",Bask HD
+http://baskhd.ddns.net:40/live/baskhd/tracks-v1a1/mono.m3u8
+#EXTINF:-159 tvg-name="Mix Kurdy" group-title="Kurdish",Mix Kurdy
+http://avrstream.com:1935/live/Mix-kurdy/tracks-v1a1/mono.m3u8
+#EXTINF:-159 tvg-name="Sada TV" group-title="Kurdish",Sada TV
+http://sada-hd.ddns.net:40/live/sadatv/tracks-v1a1/mono.m3u8
+#EXTINF:-160 tvg-name="Befrin TV" group-title="Kurdish",Befrin TV
+https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-161 tvg-name="Unknown Channel" group-title="Kurdish",Unknown Channel
+http://iptvhouse.pro/live/7598066813/503118f6f7/544476.m3u8
+#EXTINF:-163 tvg-name="Unknown Channel 544473" group-title="Kurdish",Unknown Channel 544473
+http://iptvhouse.pro/live/7598066813/503118f6f7/544473.m3u8
+#EXTINF:-164 tvg-name="CNN International" group-title="International",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
