@@ -123,8 +123,6 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-62,KU | AVA MEDIA TV
 https://ava2.store/upload/ava.m3u8
-#EXTINF:-63,KU | KURDISTAN 24 TV
-http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324572.ts
 #EXTINF:-64,KU | KURDSAT NEWS TV
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-65,KU | NUÇÊ TV
@@ -229,8 +227,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 #EXTINF:-141,AR | MBC BOLLYWOOD TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-142,AR | MBC ACTION
-http://185.95.184.33:25461/live/120541/20364/221.m3u8
 #EXTINF:-144,KU | TRT KURDI TV
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-145,KU | NETFLIX ACTION HD
