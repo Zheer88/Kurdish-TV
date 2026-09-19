@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="KU ✨ KURDISH",SUBORO TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802317&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SUROYO TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802199&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SURYOYO SAT
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802198&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ISTHAR TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802188&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",RONAHI TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802171&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",RONAHI TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802089&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",STERK TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802086&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",STERK TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802167&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",RUDAW TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802170&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",MEDYA HABER HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802201&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",MEDYA HABER FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802114&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",TRT KURDI FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802197&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",TRT KURDI HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802196&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZAGROS TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802165&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZAGROS TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802085&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",LALISH TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802118&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",JIN TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802096&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",JIN TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802095&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ROJAVA TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802172&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",GALI KURDISTAN HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802182&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDISTAN 24
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802180&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDISTAN TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802179&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDISTAN TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802125&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",PAYAM TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802173&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SAHAR KURDISH
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802169&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX SHOW
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802124&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802122&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDSAT TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802121&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",RONAHI TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802090&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",MED MUSIC
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802174&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",MED MUSIC
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802093&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NET TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802092&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NET TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802091&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802194&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802193&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT 2 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802192&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ARYEN TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802200&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ARYEN TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802099&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ARYEN TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802098&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ARTI MEDYA
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802202&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",TRT KURDI
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802195&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT 3 KIDS HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802191&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT 4 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802190&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT SPORT HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802189&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SAHAR TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802107&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",CIRA TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802148&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",CIRA TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802186&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZED TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802163&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",WAAR TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802166&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",WAAR HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802102&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZAROK TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802164&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZAROK SORANI
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802101&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AVA ENTERTAINMENT
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802159&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AVA MEDIA
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802158&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AVA
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802187&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",DELAL HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802185&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",DENGE ZELAL
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802184&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",EZDAN
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802183&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",JIN TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802181&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX KURMANJI HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802178&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX MUSIC
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802177&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX SORANI HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802176&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDSAT NEWS
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802175&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SPEDA
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802168&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AMOZHGARY TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802162&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AMOZHGARY TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802161&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ATV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802160&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",BABOLY HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802157&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",BABYLON TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802156&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",BANGAWAZ
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802155&extension=ts
