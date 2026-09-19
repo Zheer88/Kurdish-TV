@@ -1,28 +1,387 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
-http://103.126.50.103:2082/live/05343240670yg/9139198/39652.m3u8
-#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
-https://win.holol.com/live/quran/chunklist_w1967448292.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/zv96HZzg/Bahrain-Quran-200.jpg" group-title="Religious",BAHRAIN QURAN
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",SUBORO TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802317&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SUROYO TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802199&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SURYOYO SAT
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802198&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ISTHAR TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802188&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",RONAHI TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802171&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",RONAHI TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802089&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",STERK TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802086&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",STERK TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802167&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",RUDAW TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802170&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",MEDYA HABER HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802201&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",MEDYA HABER FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802114&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",TRT KURDI FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802197&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",TRT KURDI HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802196&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZAGROS TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802165&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZAGROS TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802085&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",LALISH TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802118&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",JIN TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802096&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",JIN TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802095&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ROJAVA TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802172&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",GALI KURDISTAN HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802182&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDISTAN 24
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802180&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDISTAN TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802179&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDISTAN TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802125&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",PAYAM TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802173&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SAHAR KURDISH
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802169&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX SHOW
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802124&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802122&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDSAT TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802121&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",RONAHI TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802090&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",MED MUSIC
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802174&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",MED MUSIC
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802093&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NET TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802092&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NET TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802091&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802194&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802193&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT 2 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802192&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ARYEN TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802200&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ARYEN TV FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802099&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ARYEN TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802098&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ARTI MEDYA
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802202&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",TRT KURDI
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802195&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT 3 KIDS HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802191&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT 4 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802190&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT SPORT HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802189&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SAHAR TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802107&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",CIRA TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802148&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",CIRA TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802186&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZED TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802163&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",WAAR TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802166&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",WAAR HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802102&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZAROK TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802164&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZAROK SORANI
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802101&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AVA ENTERTAINMENT
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802159&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AVA MEDIA
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802158&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AVA
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802187&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",DELAL HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802185&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",DENGE ZELAL
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802184&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",EZDAN
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802183&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",JIN TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802181&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX KURMANJI HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802178&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX MUSIC
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802177&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX SORANI HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802176&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDSAT NEWS
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802175&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",SPEDA
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802168&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AMOZHGARY TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802162&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",AMOZHGARY TV HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802161&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",ATV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802160&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",BABOLY HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802157&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",BABYLON TV
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802156&extension=ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",BANGAWAZ
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=802155&extension=ts
 
-#EXTINF:-1  tvg-name="Iqraa Quran" tvg-logo="https://i.postimg.cc/YS1NfcpH/Iqra-200.png" group-title="Religious",Iqraa Quran
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish TV",ZNAR KIDS
+http://api.353505.xyz:80/live/123/123/539.ts
+#EXTINF:-1 group-title="Kurdish TV",Rudaw Radio
+http://api.353505.xyz:80/live/123/123/158.ts
+#EXTINF:-1 group-title="Kurdish TV",Parwardayi Hawler
+http://api.353505.xyz:80/live/123/123/620.ts
+#EXTINF:-1 group-title="Kurdish TV",KURDSAT
+http://api.353505.xyz:80/live/123/123/2894.ts
+#EXTINF:-1 group-title="Kurdish TV",KURDSAT NEWS
+http://api.353505.xyz:80/live/123/123/2895.ts
+#EXTINF:-1 group-title="Kurdish TV",Dengi Gali Kurdistan
+http://api.353505.xyz:80/live/123/123/160.ts
+#EXTINF:-1 group-title="Kurdish TV",Eman TV
+http://api.353505.xyz:80/live/123/123/560.ts
+#EXTINF:-1 group-title="Kurdish TV",RUDAW 4K
+http://api.353505.xyz:80/live/123/123/2896.ts
+#EXTINF:-1 group-title="Kurdish TV",ESRA
+http://api.353505.xyz:80/live/123/123/562.ts
+#EXTINF:-1 group-title="Kurdish TV",NRT
+http://api.353505.xyz:80/live/123/123/2897.ts
+#EXTINF:-1 group-title="Kurdish TV",Radio Nawa Kurdi
+http://api.353505.xyz:80/live/123/123/162.ts
+#EXTINF:-1 group-title="Kurdish TV",Sports TV
+http://api.353505.xyz:80/live/123/123/268.ts
+#EXTINF:-1 group-title="Kurdish TV",ESRA 2
+http://api.353505.xyz:80/live/123/123/563.ts
+#EXTINF:-1 group-title="Kurdish TV",Channel 8
+http://api.353505.xyz:80/live/123/123/2898.ts
+#EXTINF:-1 group-title="Kurdish TV",Afarin Baxcha
+http://api.353505.xyz:80/live/123/123/614.ts
+#EXTINF:-1 group-title="Kurdish TV",WAAR TV
+http://api.353505.xyz:80/live/123/123/2900.ts
+#EXTINF:-1 group-title="Kurdish TV",Iraqia Kurdi
+http://api.353505.xyz:80/live/123/123/2901.ts
+#EXTINF:-1 group-title="Kurdish TV",KHAK FM
+http://api.353505.xyz:80/live/123/123/166.ts
+#EXTINF:-1 group-title="Kurdish TV",AVA Media
+http://api.353505.xyz:80/live/123/123/2902.ts
+#EXTINF:-1 group-title="Kurdish TV",Welat
+http://api.353505.xyz:80/live/123/123/2903.ts
+#EXTINF:-1 group-title="Kurdish TV",PAYAM TV
+http://api.353505.xyz:80/live/123/123/2904.ts
+#EXTINF:-1 group-title="Kurdish TV",Kurd Mix Sweden
+http://api.353505.xyz:80/live/123/123/169.ts
+#EXTINF:-1 group-title="Kurdish TV",Zagros 24
+http://api.353505.xyz:80/live/123/123/2905.ts
+#EXTINF:-1 group-title="Kurdish TV",Gali Kurdistan
+http://api.353505.xyz:80/live/123/123/2906.ts
+#EXTINF:-1 group-title="Kurdish TV",KERKUK TV
+http://api.353505.xyz:80/live/123/123/2907.ts
+#EXTINF:-1 group-title="Kurdish TV",Kurdistan 24
+http://api.353505.xyz:80/live/123/123/2908.ts
+#EXTINF:-1 group-title="Kurdish TV",ROJHELAT
+http://api.353505.xyz:80/live/123/123/2909.ts
+#EXTINF:-1 group-title="Kurdish TV",KURD CHANNEL
+http://api.353505.xyz:80/live/123/123/2910.ts
+#EXTINF:-1 group-title="Kurdish TV",IRIB Kordestan
+http://api.353505.xyz:80/live/123/123/2911.ts
+#EXTINF:-1 group-title="Kurdish TV",IRIB Mahabad
+http://api.353505.xyz:80/live/123/123/2912.ts
+#EXTINF:-1 group-title="Kurdish TV",IRIB Kermanshah
+http://api.353505.xyz:80/live/123/123/2913.ts
+#EXTINF:-1 group-title="Kurdish TV",SHAMS
+http://api.353505.xyz:80/live/123/123/400.ts
+#EXTINF:-1 group-title="Kurdish TV",STERK TV
+http://api.353505.xyz:80/live/123/123/2915.ts
+#EXTINF:-1 group-title="Kurdish TV",Kurdmax Sorani
+http://api.353505.xyz:80/live/123/123/2917.ts
+#EXTINF:-1 group-title="Kurdish TV",Kurdmax Show Sorani
+http://api.353505.xyz:80/live/123/123/2918.ts
+#EXTINF:-1 group-title="Kurdish TV",Kurdistan TV
+http://api.353505.xyz:80/live/123/123/2921.ts
+#EXTINF:-1 group-title="Kurdish TV",TRT KURDI
+http://api.353505.xyz:80/live/123/123/2922.ts
+#EXTINF:-1 group-title="Kurdish TV",ZAGROS TV
+http://api.353505.xyz:80/live/123/123/2923.ts
+#EXTINF:-1 group-title="Kurdish TV",Zhin Film
+http://api.353505.xyz:80/live/123/123/2924.ts
+#EXTINF:-1 group-title="Kurdish TV",ZNAR TV
+http://api.353505.xyz:80/live/123/123/2925.ts
+#EXTINF:-1 group-title="Kurdish TV",AVAR
+http://api.353505.xyz:80/live/123/123/2926.ts
+#EXTINF:-1 group-title="Kurdish TV",Eurokurd
+http://api.353505.xyz:80/live/123/123/2927.ts
+#EXTINF:-1 group-title="Kurdish TV",SADA
+http://api.353505.xyz:80/live/123/123/2928.ts
+#EXTINF:-1 group-title="Kurdish TV",TravelXP HD
+http://api.353505.xyz:80/live/123/123/517.ts
+#EXTINF:-1 group-title="Kurdish TV",HALABJA TV
+http://api.353505.xyz:80/live/123/123/2929.ts
+#EXTINF:-1 group-title="Kurdish TV",KHAK
+http://api.353505.xyz:80/live/123/123/2930.ts
+#EXTINF:-1 group-title="Kurdish TV",Soran Entertainment
+http://api.353505.xyz:80/live/123/123/2931.ts
+#EXTINF:-1 group-title="Kurdish TV",SHNA TV
+http://api.353505.xyz:80/live/123/123/2932.ts
+#EXTINF:-1 group-title="Kurdish TV",Shna Doc
+http://api.353505.xyz:80/live/123/123/2933.ts
+#EXTINF:-1 group-title="Kurdish TV",DunyaTV
+http://api.353505.xyz:80/live/123/123/2934.ts
+#EXTINF:-1 group-title="Kurdish TV",Mix Kurdy
+http://api.353505.xyz:80/live/123/123/2935.ts
+#EXTINF:-1 group-title="Kurdish TV",Afarin Kids
+http://api.353505.xyz:80/live/123/123/2936.ts
+#EXTINF:-1 group-title="Kurdish TV",Afarin Radio
+http://api.353505.xyz:80/live/123/123/2937.ts
+#EXTINF:-1 group-title="Kurdish TV",Mihrab FM
+http://api.353505.xyz:80/live/123/123/2938.ts
+#EXTINF:-1 group-title="Kurdish TV",IMK TV
+http://api.353505.xyz:80/live/123/123/2939.ts
+#EXTINF:-1 group-title="Kurdish TV",Dengi Islam Slemani
+http://api.353505.xyz:80/live/123/123/208.ts
+#EXTINF:-1 group-title="Kurdish TV",ONE PLUS
+http://api.353505.xyz:80/live/123/123/2944.ts
+#EXTINF:-1 group-title="Kurdish TV",Alla TV
+http://api.353505.xyz:80/live/123/123/2946.ts
+#EXTINF:-1 group-title="Kurdish TV",GK+
+http://api.353505.xyz:80/live/123/123/2947.ts
+#EXTINF:-1 group-title="Kurdish TV",Radio Sunnat
+http://api.353505.xyz:80/live/123/123/212.ts
+#EXTINF:-1 group-title="Kurdish TV",Derin
+http://api.353505.xyz:80/live/123/123/2948.ts
+#EXTINF:-1 group-title="Kurdish TV",Dengi Quran
+http://api.353505.xyz:80/live/123/123/213.ts
+#EXTINF:-1 group-title="Kurdish TV",SHAR Family
+http://api.353505.xyz:80/live/123/123/2949.ts
+#EXTINF:-1 group-title="Kurdish TV",Zarok Kids
+http://api.353505.xyz:80/live/123/123/2950.ts
+#EXTINF:-1 group-title="Kurdish TV",Kidco
+http://api.353505.xyz:80/live/123/123/2951.ts
+#EXTINF:-1 group-title="Kurdish TV",Biner TV Zaxo
+http://api.353505.xyz:80/live/123/123/2952.ts
+#EXTINF:-1 group-title="Kurdish TV",Infinity TV
+http://api.353505.xyz:80/live/123/123/2953.ts
+#EXTINF:-1 group-title="Kurdish TV",ROJAVA TV
+http://api.353505.xyz:80/live/123/123/2955.ts
+#EXTINF:-1 group-title="Kurdish TV",MMN SHOW
+http://api.353505.xyz:80/live/123/123/2956.ts
+#EXTINF:-1 group-title="Kurdish TV",MMN NEWS
+http://api.353505.xyz:80/live/123/123/2957.ts
+#EXTINF:-1 group-title="Kurdish TV",MMN Drama
+http://api.353505.xyz:80/live/123/123/2958.ts
+#EXTINF:-1 group-title="Kurdish TV",MMN Action
+http://api.353505.xyz:80/live/123/123/2959.ts
+#EXTINF:-1 group-title="Kurdish TV",MMN Movies
+http://api.353505.xyz:80/live/123/123/2960.ts
+#EXTINF:-1 group-title="Kurdish TV",MMN Quran
+http://api.353505.xyz:80/live/123/123/2961.ts
+#EXTINF:-1 group-title="Kurdish TV",MMN Documentary
+http://api.353505.xyz:80/live/123/123/2962.ts
+#EXTINF:-1 group-title="Kurdish TV",Jin TV
+http://api.353505.xyz:80/live/123/123/2968.ts
+#EXTINF:-1 group-title="Kurdish TV",RED TV
+http://api.353505.xyz:80/live/123/123/2969.ts
+#EXTINF:-1 group-title="Kurdish TV",SPI HD
+http://api.353505.xyz:80/live/123/123/2970.ts
+#EXTINF:-1 group-title="Kurdish TV",Gewher Sport
+http://api.353505.xyz:80/live/123/123/2971.ts
+#EXTINF:-1 group-title="Kurdish TV",Gewher Kids
+http://api.353505.xyz:80/live/123/123/2972.ts
+#EXTINF:-1 group-title="Kurdish TV",NUC TV
+http://api.353505.xyz:80/live/123/123/2973.ts
+#EXTINF:-1 group-title="Kurdish TV",Niroj
+http://api.353505.xyz:80/live/123/123/2974.ts
+#EXTINF:-1 group-title="Kurdish TV",Gewher Family
+http://api.353505.xyz:80/live/123/123/2975.ts
+#EXTINF:-1 group-title="Kurdish TV",SOZ Movies
+http://api.353505.xyz:80/live/123/123/2976.ts
+#EXTINF:-1 group-title="Kurdish TV",Ashti Quran
+http://api.353505.xyz:80/live/123/123/2978.ts
+#EXTINF:-1 group-title="Kurdish TV",Ashti Family
+http://api.353505.xyz:80/live/123/123/2979.ts
+#EXTINF:-1 group-title="Kurdish TV",TV Sunnat
+http://api.353505.xyz:80/live/123/123/3009.ts
+#EXTINF:-1 group-title="Kurdish TV",ONE KIDS
+http://api.353505.xyz:80/live/123/123/3043.ts
+#EXTINF:-1 group-title="Kurdish TV",PBS Kids
+http://api.353505.xyz:80/live/123/123/3047.ts
+#EXTINF:-1 group-title="Kurdish TV",Maraya Kids
+http://api.353505.xyz:80/live/123/123/3048.ts
+#EXTINF:-1 group-title="Kurdish TV",Roya Kids
+http://api.353505.xyz:80/live/123/123/3049.ts
+#EXTINF:-1 group-title="Kurdish TV",Super Kids
+http://api.353505.xyz:80/live/123/123/3050.ts
 
-#EXTINF:-1  tvg-name="Pro Quran" tvg-logo="https://i.postimg.cc/Z5X97KKy/Al-Quran-Pro-200.png" group-title="Religious",Pro Quran
-http://tv.ezanvaktipro.com:80/hls/quran.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",ASTERA SPORT TV
+http://185.95.184.33:25461/live/120541/20364/149.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZED PLUS+ TV
+http://185.95.184.33:25461/live/120541/20364/99.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",SLEMANI TV HD
+http://185.95.184.33:25461/live/120541/20364/102.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",JK TV HD
+http://185.95.184.33:25461/live/120541/20364/108.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",MIX TV HD
+http://185.95.184.33:25461/live/120541/20364/124.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",NISHTIMANI MN TV
+http://185.95.184.33:25461/live/120541/20364/126.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",QALLAM TV ISLAMIC
+http://185.95.184.33:25461/live/120541/20364/3900.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",ZNAR TV HD
+http://185.95.184.33:25461/live/120541/20364/161.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",GK+ TV HD
+https://live.host247.net/gk/gkplus/playlist.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",NRT4 TV HD
+http://185.95.184.33:25461/live/120541/20364/156.m3u8
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324575.ts
+#EXTINF:-1 group-title="KU ✨ KURDISH",KURDMAX SHOW TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324577.ts
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5t1JNZsR/IMK-Quran-200.jpg" group-title="Religious",IMKQURAN HD
-http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
-
-#EXTINF:-1  tvg-name="QURAN Sharjah" tvg-logo="https://i.postimg.cc/6QscV3tq/Sharjah_Tv_Quran_200.jpg" group-title="Religious",QURAN Sharjah
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//playlist.m3u8
-
-#EXTINF:-1  tvg-name="SPI QURAN" tvg-logo="https://i.postimg.cc/kgRGb3FM/SPI-Quran-200.jpg" group-title="Religious",SPI QURAN
-https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
-
-#EXTINF:-1  tvg-name="Shna QURAN" tvg-logo="https://i.postimg.cc/XvFrTSp1/Shna-Quran-200.png" group-title="Religious",Shna QURAN
-http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",NRT Sport
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/280437.m3u8
+#EXTINF:-1 group-title="Sports",LD Sport
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/280502.m3u8
+#EXTINF:-1 group-title="Sports",Aso Sport
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/456256.m3u8
+#EXTINF:-1 group-title="Sports",Duhok Sport
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/129834.m3u8
+#EXTINF:-1 group-title="Sports",See Sport 1
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/456277.m3u8
+#EXTINF:-1 group-title="Sports",See Sport 2
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/456278.m3u8
+#EXTINF:-1 group-title="Family",Niga Family
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/129906.m3u8
+#EXTINF:-1 group-title="Family",Aro Family
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/312560.m3u8
+#EXTINF:-1 group-title="Documentary",Astera Documentary
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/280457.m3u8
+#EXTINF:-1 group-title="Sports",BeIN Sport 1
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/114053.m3u8
+#EXTINF:-1 group-title="Sports",BeIN Sport 2
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/114052.m3u8
+#EXTINF:-1 group-title="Sports",BeIN Sport 3
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/315730.m3u8
+#EXTINF:-1 group-title="Sports",BeIN Sport 4
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/315731.m3u8
+#EXTINF:-1 group-title="Sports",BeIN Sport 5
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/315732.m3u8
+#EXTINF:-1 group-title="Sports",Alwan Sport 1
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/1641605.m3u8
+#EXTINF:-1 group-title="Sports",Alwan Sport 2
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/1641606.m3u8
+#EXTINF:-1 group-title="Sports",Alwan Sport 3
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/1641607.m3u8
