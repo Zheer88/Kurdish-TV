@@ -1,17 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" group-title="NRT",KU: NRT 1 4K
-http://dksipi.com:80/live/mnzraleed1234/238132529489/18958.ts
-#EXTINF:-1 tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" group-title="NRT",KU: NRT 2 4K
-http://dksipi.com:80/live/mnzraleed1234/238132529489/27557.ts
-#EXTINF:-1 tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" group-title="NRT",KU: NRT 2 SORANI 4K
-http://dksipi.com:80/live/mnzraleed1234/238132529489/18959.ts
-#EXTINF:-1 tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" group-title="NRT",KU: NRT 4 4K
-http://dksipi.com:80/live/mnzraleed1234/238132529489/14818.ts
-#EXTINF:-1 tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" group-title="NRT",KU: NRT 3 KIDS
-http://dksipi.com:80/live/mnzraleed1234/238132529489/14816.ts
-#EXTINF:-1 tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" group-title="NRT",KU: NRT SPORT 4K
-http://dksipi.com:80/live/mnzraleed1234/238132529489/168667.ts
-#EXTINF:-1 tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" group-title="NRT",KU: NRT 1 4K•
-http://dksipi.com:80/live/mnzraleed1234/238132529489/465366.ts
-#EXTINF:-1 tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" group-title="NRT",KU: NRT 2 4K•
-http://dksipi.com:80/live/mnzraleed1234/238132529489/465385.ts
+
