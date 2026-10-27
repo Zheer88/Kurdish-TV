@@ -1,79 +1,407 @@
 #EXTM3U
-#EXTINF:-1 tvg-id= tvg-name="Alwan Aflam 1 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Aflam 1 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222225.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Aflam 2 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Aflam 2 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222226.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Aflam 3 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Aflam 3 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222836.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Aflam 4 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Aflam 4 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222837.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Aghani 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Aghani 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222842.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Alwathaeqye 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Alwathaeqye 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222227.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Anime 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Anime 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222841.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Atfal 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Atfal 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222228.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Bollywood 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Bollywood 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222840.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan F1 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan F1 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222833.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Korea 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Korea 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222839.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Mosalsalat 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Mosalsalat 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222229.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Mosalsalat+ 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Mosalsalat+ 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222838.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Quran 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Quran 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222843.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Turkey 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Turkey 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222230.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan UFC 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan UFC 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222835.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan WWE 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan WWE 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222834.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 1 SD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 1 SD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222237.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 2 SD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 2 SD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222238.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 3 SD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 3 SD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222239.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 4 SD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 4 SD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222240.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 5 SD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 5 SD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222241.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 6 SD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 6 SD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222242.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 1 HD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 1 HD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222231.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 2 HD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 2 HD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222232.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 3 HD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 3 HD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222233.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 4 HD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 4 HD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222234.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 5 HD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 5 HD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222235.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 6 HD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 6 HD
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222236.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 1 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 1 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222219.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 2 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 2 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222220.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 3 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 3 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222221.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 4 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 4 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222222.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 5 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 5 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222223.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 6 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 6 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222224.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 7 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 7 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222829.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 8 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 8 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222830.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 9 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 9 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222831.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Alwan Sport 10 4K" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_dc4k1xh2984zbypbnunk7ncic/fill/center/top/none/100/0/0/png/image/14" group-title="ALWAN PACKAGE",Alwan Sport 10 4K
-http://ibo.lynxiptv.com/live/135742861594/LGst4ODGji/222832.m3u8
+#EXTINF:-Kurdsat = https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Kurdsat-TV-logo.jpg?resize=900%2C900&ssl=1
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-hannel8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
+#EXTINF:-Kurdsat News 
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-Rudaw TV
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+
+#EXTINF:-Kurdistan TV 
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-Kurdistan 24 
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+
+#EXTINF:-38,Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+
+#EXTINF:-Gali Kurdistan TV
+https://live.host247.net/gk/gksat/playlist.m3u8
+
+#EXTINF:-Halabja TV
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+
+#EXTINF: AVA HD
+https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+
+#EXTINF:-Speda TV
+https://speda1.site/upload/images/spedahd.m3u8
+
+#EXTINF:-Payam TV 
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+#EXTINF:-1 tvg-name="Soran Entertainment" group-title="KURDISH",Soran Entertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-Mirna TV
+http://161.97.123.126:8081/stream/mirna/master.m3u8
+
+#EXTINF: WILDEARTH TV
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-Cira TV 
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+
+#EXTINF:-AlIraqia Kur
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+
+#EXTINF:-ZagrosTV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:ALA HD
+http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+
+#EXTINF:-Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+
+#EXTINF:-Sercem TV 
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+
+#EXTINF:-Rojava TV 
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+
+#EXTINF:-Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
+
+#EXTINF: Med Muzik
+http://54.36.110.140/live3/live3.m3u8
+
+#EXTINF:-MMN Documentary
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+
+#EXTINF:-CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+#EXTINF:-MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+#EXTINF:-iNEWS TV
+https://live.i-news.tv/hls/stream.m3u8
+
+#EXTINF:-HALK TV
+https://halktv.daioncdn.net/halktv/halktv_360p.m3u8?sid=836oghq51cw9&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+
+
+#EXTINF:-shams.tv
+https://stream.shams.tv/hls/0/stream.m3u8
+
+
+#EXTINF:-BBC.tv
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:UFC TV
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8
+
+================================================================= Kids ================
+#EXTINF:-Afarin TV Kids
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:- Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-ZarokTV.
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-ZAROK SORANI
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:ZOOMOO TV
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-BabyShark TV 
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-TOM AND JERRY TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-KIDCO TV 
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+
+#EXTINF:RYAN AND FREINDS TV
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-MARAYA KIDS TV
+https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
+
+#EXTINF:-MBC3 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+
+
+
+====================================================== kurdish gshte ===================
+#EXTINF:-kalhur TV
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-HormzyarHD
+https://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+
+#EXTINF:-Ava Family TV
+https://live20.bozztv.com:443/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8
+
+#EXTINF:-EURO KURD
+http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
+
+#EXTINF:-KANALI 21
+http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
+
+#EXTINF:-Mix Kurdy TV
+http://avrstream.com:1935/live/Mix-kurdy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-graryantv
+https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
+
+#EXTINF:-4Kurd TV
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-Ronahi TV 
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+
+#EXTINF:-WelatTV
+https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8
+
+#EXTINF:-WaarTV
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+
+#EXTINF:-Derin TV
+http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
+
+#EXTINF:-WOF TV
+https://barham.short.gy/zvgsport.m3u8 
+
+#EXTINF:-Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-NUÇÊ TV
+https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+
+#EXTINF:-KURD7 TV 
+http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
+
+#EXTINF:RED TV 
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+
+#EXTINF:-Befrin TV
+https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-Sterk TV 
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:-TRTKurd TV
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:IlkeTV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-Al Jazeera Documentary 
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-IRAQIA NEWS
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-MBC1 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-MBC 4 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-MBC 5 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-MBC DRAMA TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-MBC BOLLYWOOD TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-NETFLIX COMEDY HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487974.m3u8
+
+#EXTINF:-NETFLIX ANIME
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/488002.m3u8
+
+#EXTINF:ALGHAD TV 
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-ALJAZEERA
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+#EXTINF:-AL ARABIA NEWS
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+
+#EXTINF:-REHBER TV
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="T2TV.ir@SD" tvg-logo="https://i.imgur.com/Wu8MBb7.png" group-title="Music",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL2.ir@SD" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaTravel.fr@SD" tvg-logo="" group-title="Documentary",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaPlus.fr@SD" tvg-logo="https://i.imgur.com/0xttibX.png" group-title="Movies",Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+============================================================================ MOVEE
+
+
+#EXTINF:-NEW MOVIES TV
+https://cdn.karwan.tv/bnar-movies/index.m3u8
+
+#EXTINF:-NEW ACTION2 TV
+https://cdn.karwan.tv/bnar-action/index.m3u8
+
+#EXTINF: MMN ACTION TV
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+
+#EXTINF:-MMN NEWS
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+
+#EXTINF:-BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+
+#EXTINF:-NETFLIX DRAMA 1 
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487994.m3u8
+
+#EXTINF:NETFLIX DRAMA 2
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487993.m3u8
+
+#EXTINF:NETFLIX ACTION 
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487989.m3u8
+
+#EXTINF:-NETFLIX ACTION 2 
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487986.m3u8
+
+#EXTINF:-NETFLIX ACTION 3 
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487985.m3u8
+
+
+#EXTINF:-FOX ACTION 
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-infinity-tv
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-DW.tv
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+
+
+#EXTINF:-Dijlah.tv
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+
+#EXTINF:-KANAL24
+https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
+============================================================================================QURAN
+
+#EXTINF:MMN QURAN
+http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist.m3u8
+
+#EXTINF:ESRA TV2
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/playlist.m3u8
+
+#EXTINF:-ESRA TV1
+https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/playlist.m3u8
+
+#EXTINF:-FARMUDA TV
+http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
+
+#EXTINF:-Bangawaztv
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+
+XTINF:-Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
+
+#EXTINF:-SADA TV
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
+
+#EXTINF:-MIHRAB TV QURAN
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+
+#EXTINF:-SHAR TV QURAN
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+
+#EXTINF:-QELLAT TV
+http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8
+
+#EXTINF:-RAWSHAN QURAN
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+
+#EXTINF:-AvarTV quran
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+
+#EXTINF:-SHNA TV
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+
+#EXTINF:-bask TV
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+
+#EXTINF:GEWHER TV 
+https://iptv-link.short.gy/Gewher.m3u8
+
+#EXTINF:-PESHANG TV 
+https://stream.forcaroo.com/stream/hls/desktop.m3u8
+
+#EXTINF:-Nour TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+
+#EXTINF:-EmanTv
+https://avr.host247.net/live/emantv/playlist.m3u8
+
+#EXTINF:IMK QURAN TV
+http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+
+#EXTINF:-ASHTI QURAN TV
+http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
+
+#EXTINF:-SOZ TV 
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
+
+#EXTINF:-QURAN Sharjah
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//playlist.m3u8
+
+================================================================MOVIES ========
+
+#EXTINF:-BARIN MOVIES TV
+https://cdn.karwan.tv/barin-movies/index.m3u8
+
+#EXTINF:-BARIN FAMILY TV
+http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8
+
+#EXTINF:NEW FAMILY TV
+https://cdn.karwan.tv/bnar-family/index.m3u8
+
+#EXTINF:-MMN ART TV
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+
+=================================================================================SPORT
+#EXTINF:-GEWHER SPORT TV
+https://iptv-link.short.gy/Gewher_Sport.m3u8
+
+#EXTINF:-MMN SPORT TV
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+
+#EXTINF:-Bahrain Sports1 
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-Bahrain Sports2 
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-BenSport 
+http://iptvhouse.pro/live/7598066813/503118f6f7/544476.m3u8
+#EXTINF:-BenSport tv2
+http://iptvhouse.pro/live/7598066813/503118f6f7/544473.m3u8
+
+#EXTINF:-QATAR TV 1
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-QATAR TV 2
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+
+#EXTINF:AVA SHOW TV 
+http://4kgood.org:80/live/pkttl2groh/yzb67p24qo/129970.m3u8
